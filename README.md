@@ -1,2 +1,2 @@
 # djproject
-Django project for training
+Django project for training.
